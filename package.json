@@ -1,0 +1,37 @@
+{
+  "name": "create-ppd-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-ppd-app": "./bin/create-ppd-app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "ppd",
+    "cli",
+    "ppdesign",
+    "vue",
+    "react",
+    "vue3"
+  ],
+  "author": "grabbychen",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.2",
+    "ppd-utils": "^1.1.1",
+    "request-promise-native": "^1.0.9",
+    "semver": "^7.3.5",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=8.9"
+  }
+}
