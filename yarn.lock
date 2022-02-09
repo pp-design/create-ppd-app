@@ -410,7 +410,7 @@ defer-to-connect@^1.0.1:
 
 download-git-repo@^3.0.2:
   version "3.0.2"
-  resolved "https://registry.npmjs.org/download-git-repo/-/download-git-repo-3.0.2.tgz#8caae24fb2abd6453172deea5619036024f190f6"
+  resolved "https://mirrors.tencent.com/npm/download-git-repo/-/download-git-repo-3.0.2.tgz#8caae24fb2abd6453172deea5619036024f190f6"
   integrity sha512-N8hWXD4hXqmEcNoR8TBYFntaOcYvEQ7Bz90mgm3bZRTuteGQqwT32VDMnTyD0KTEvb8BWrMc1tVmzuV9u/WrAg==
   dependencies:
     download "^7.1.0"

@@ -1,1 +1,1 @@
-exports.createApp = require("./cmd");
+exports.createApp = require("./lib");
